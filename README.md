@@ -1,0 +1,2 @@
+# handleTheNullOfContainer
+递归把字典或数组里面的额NULL对象换为空字符串
