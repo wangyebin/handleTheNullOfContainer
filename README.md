@@ -1,2 +1,4 @@
 # handleTheNullOfContainer
 递归把字典或数组里面的额NULL对象换为空字符串
+把下载的分类拖进工程既可
+要处理的对象调用才checkTheDic:(返回一个新的对象)
